@@ -9,3 +9,10 @@ input{
     width: 200px;
     display: block;
 }
+
+form {
+    border: 1px black solid;
+    padding: 5px;
+    width: 400px;
+    background-color: lightblue;
+}
